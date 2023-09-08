@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brendan Kariniemi</h1>
-<h3 align="left">Computer science student, currently working at Siemens as a Grid Software Intern!</h3>
+<h3 align="left">Computer science student, currently working at Siemens as a Software Engineering Intern!</h3>
 
 - 🌱 I’m currently learning about Machine Learning and Security, and looking forward to learning more about Low-Latency Programming!
-
-- 📫 How to reach me **Brendankariniemi@gmail.com**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/brendan-kariniemi/</h3>
 <p align="left">
